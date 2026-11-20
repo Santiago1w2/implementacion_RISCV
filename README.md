@@ -25,3 +25,6 @@ memory_2.bin
 ``text 
 .\simulador.exe "C:\Users\smora\OneDrive\Escritorio\ARQUI\TAREA9\simulador-riscv-cpp\simulador-riscv\memory_2.bin"
 ``
+
+
+link del video: https://youtu.be/mlnO_3jo2T4
